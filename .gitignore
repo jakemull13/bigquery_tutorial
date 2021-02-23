@@ -1,0 +1,3 @@
+# ignore api keys and environmental variables
+.env
+bigquery_tutorial.json
